@@ -1,0 +1,4 @@
+# <resource group>  <resource>     <resource type>
+<resource group1>  storageaccoutn1 storage
+<resource group2>  vault1          vault 
+
